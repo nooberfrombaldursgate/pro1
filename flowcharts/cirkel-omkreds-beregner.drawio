@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2021-02-01T10:30:50.503Z" agent="5.0 (Windows)" etag="09-WInzX_yUqFjCKdUl_" version="14.2.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1673" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-0" target="jfj6xXtcAfv8qUXJhT0l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-0" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-2" target="jfj6xXtcAfv8qUXJhT0l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-2" value="radius &amp;lt;- 7.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="210" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-4" target="jfj6xXtcAfv8qUXJhT0l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-4" value="pi &amp;lt;- 3.14159" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="380" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-6" value="omkreds &amp;lt;- radius * 2 * pi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="550" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-10" target="jfj6xXtcAfv8qUXJhT0l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-10" value="&lt;div&gt;&quot;Omkredsen er: &quot; &lt;br&gt;&lt;/div&gt;&lt;div&gt;omkreds&lt;/div&gt;&lt;div&gt;&quot; cm.&quot;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="92" y="720" width="216" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-14" value="slut" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="890" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-17" target="jfj6xXtcAfv8qUXJhT0l-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-17" value="const radius = 7.5;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="210" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-19" target="jfj6xXtcAfv8qUXJhT0l-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-19" value="const pi = 3.14159;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="380" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfj6xXtcAfv8qUXJhT0l-20" target="jfj6xXtcAfv8qUXJhT0l-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-20" value="const omkreds = radius * 2 * pi; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="550" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfj6xXtcAfv8qUXJhT0l-21" value="console.log(&quot;Omkredsen er:&amp;nbsp; &quot; + omkreds * &quot; cm.&quot;);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="730" width="220" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,25 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T09:21:51.521Z" agent="5.0 (Windows)" etag="44OH6GuX9HEFDw6rQzbT" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T17:01:32.696Z" agent="5.0 (Windows)" etag="srVvkEgMcGd-x-V0wcC3" version="14.2.9" type="github">
   <diagram id="wSXU5I3lGnjunX10phB6" name="Page-1">
-    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6j2NXDCQ-nHp91OjlaAx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6j2NXDCQ-nHp91OjlaAx-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6j2NXDCQ-nHp91OjlaAx-1" value="&lt;div&gt;print 1.25 * (4 95 + 7 * 160)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="200" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6j2NXDCQ-nHp91OjlaAx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6j2NXDCQ-nHp91OjlaAx-2" target="6j2NXDCQ-nHp91OjlaAx-1">
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6j2NXDCQ-nHp91OjlaAx-2" target="H7byK9RQ5cQlbXJq4OIp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6j2NXDCQ-nHp91OjlaAx-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="6j2NXDCQ-nHp91OjlaAx-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="211.25" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6j2NXDCQ-nHp91OjlaAx-5" value="&lt;div&gt;Stop&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="6j2NXDCQ-nHp91OjlaAx-5" value="&lt;div&gt;Stop&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="211.25" y="1123" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-1" target="H7byK9RQ5cQlbXJq4OIp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-1" value="GRUNDBELOEB &amp;lt;- 495" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196.25" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-2" target="H7byK9RQ5cQlbXJq4OIp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-2" value="dagligtTillaeg &amp;lt;- 60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166.25" y="600" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-3" target="H7byK9RQ5cQlbXJq4OIp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-3" value="totalLejeudgift &amp;lt;- (1 + MOMS) * (GRUNDBELOEB + (dagligLejepris * lejePeriodeIDage) + (DAGLIGT_TILLAEG* lejeperiodeIDage)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="422.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-4" target="H7byK9RQ5cQlbXJq4OIp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-4" value="MOMS &amp;lt;- 0.25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196.25" y="240" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-5" target="H7byK9RQ5cQlbXJq4OIp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-5" value="DAGLIG_LEJEPRIS &amp;lt;- 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196.25" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-6" target="H7byK9RQ5cQlbXJq4OIp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-6" value="lejeperiodeIDage &amp;lt;- 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196.25" y="720" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-7" target="6j2NXDCQ-nHp91OjlaAx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-7" value="&lt;div&gt;&quot;Din totale lejeudgift er:&quot;&lt;/div&gt;&lt;div&gt;totalLejeudgift&lt;/div&gt;&lt;div&gt;DKK inkl. moms&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="166.25" y="960" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-16" value="1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="40" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-24" target="H7byK9RQ5cQlbXJq4OIp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-24" value="const MOMS = 0.25;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656.25" y="240" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-25" target="H7byK9RQ5cQlbXJq4OIp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-25" value="const GRUNDBELOEB = 495" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="360" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-26" target="H7byK9RQ5cQlbXJq4OIp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-26" value="const DAGLIG_LEJEPRIS = 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="480" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-27" target="H7byK9RQ5cQlbXJq4OIp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-27" value="let dagligtTillaeg = 60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="600" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-28" target="H7byK9RQ5cQlbXJq4OIp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-28" value="let lejeperiodeIDage = 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="720" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7byK9RQ5cQlbXJq4OIp-29" target="H7byK9RQ5cQlbXJq4OIp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-29" value="let totalLejeudgift = (1 + MOMS) * (GRUNDBELOEB + (dagligLejepris * lejePeriodeIDage) + (DAGLIGT_TILLAEG* lejeperiodeIDage)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="422.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-30" value="console.log(&quot;Din totale lejeudgift er: &quot; + totalLejeudgift + &quot; DKK.&quot;);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="422.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-37" value="1c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="1320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7byK9RQ5cQlbXJq4OIp-38" value="&lt;font style=&quot;font-size: 12px&quot;&gt;beregnTotallejeudgift&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;()&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="131.25" y="1440" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

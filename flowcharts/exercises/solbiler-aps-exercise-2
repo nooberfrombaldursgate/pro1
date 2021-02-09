@@ -1,1 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T12:58:50.677Z" agent="5.0 (Windows)" version="14.3.0" etag="aZzC-uaQe92SV_Rr8yrT" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-09T12:59:06.427Z" agent="5.0 (Windows)" etag="qGKo6nn0bAbFkczFoBER" version="14.3.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="4740" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-0" value="2a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="2380" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;beregnTotallejeudgift&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;(lejeperiodeIDage, dagligtTillaeg, ekstraudstyr)&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="2420" width="300.63" height="175.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-3" target="6qJvrA9MPQ_0sRQlq4yG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-3" value="GRUNDBELOEB &amp;lt;- 495" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="372.5" y="2755.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-5" target="6qJvrA9MPQ_0sRQlq4yG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-5" value="totalLejeudgift &amp;lt;- totalLejeudgift + udstyrsudgift" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="4330" width="422.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-7" target="6qJvrA9MPQ_0sRQlq4yG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-7" value="DAGLIG_LEJEPRIS &amp;lt;- 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="372.5" y="2875.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-8" value="&lt;div&gt;&quot;Din totale lejeudgift er:&quot;&lt;/div&gt;&lt;div&gt;totalLejeudgift&lt;/div&gt;&lt;div&gt;DKK inkl. moms&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="246.25" y="4470" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6qJvrA9MPQ_0sRQlq4yG-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447.5" y="2595.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-11" target="6qJvrA9MPQ_0sRQlq4yG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-11" value="MOMS &amp;lt;- 0.25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="372.5" y="2635.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-13" target="6qJvrA9MPQ_0sRQlq4yG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;beregnTotallejeudgift(&lt;/font&gt;7, 60, [&lt;font style=&quot;font-size: 12px&quot;&gt;&#39;Ekstra chauffør&#39;&lt;/font&gt;, &#39;Barnesæde (1-4 år)&#39;)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="722.5" y="2620" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="832.5" y="2620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-15" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="772.5" y="2500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-18" target="6qJvrA9MPQ_0sRQlq4yG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-18" target="6qJvrA9MPQ_0sRQlq4yG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;beregnTotallejeudgift(&lt;/font&gt;5, 0, &lt;font style=&quot;font-size: 12px&quot;&gt;[&#39;Ekstra chauffør&#39;, &#39;Vejhjælp+&#39;, &#39;Snekæder&#39;&lt;/font&gt;)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="722.5" y="2780" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-20" target="6qJvrA9MPQ_0sRQlq4yG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-20" value="&lt;font style=&quot;font-size: 12px&quot;&gt;beregnTotallejeudgift(&lt;/font&gt;3, 105)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="722.5" y="2940" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-21" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="772.5" y="3100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-23" target="6qJvrA9MPQ_0sRQlq4yG-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-23" value="&lt;font style=&quot;font-size: 12px&quot;&gt;EKSTRAUDSTYR_PRISLISTE = [[&#39;Ekstra chauffør&#39;, 199]&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&#39; [...]...&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;]&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="252.5" y="3040" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6qJvrA9MPQ_0sRQlq4yG-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447.58333333333303" y="3410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;udstyrsudgift &amp;lt;- 0&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="311.25" y="3350" width="252.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-26" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-29" target="6qJvrA9MPQ_0sRQlq4yG-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3720" />
+              <mxPoint x="480" y="3720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.048;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-29" target="6qJvrA9MPQ_0sRQlq4yG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="4280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-28" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6qJvrA9MPQ_0sRQlq4yG-27">
+          <mxGeometry x="-0.8592" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;for (int i = 0; i &amp;lt; &lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ekstraudstyr&lt;/font&gt;.length ; i++)&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264.53" y="3490" width="365.94" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-30" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-32" target="6qJvrA9MPQ_0sRQlq4yG-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3980" />
+              <mxPoint x="480" y="3980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-31" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-32" target="6qJvrA9MPQ_0sRQlq4yG-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="3730" />
+              <mxPoint x="410" y="3730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-32" value="&lt;font style=&quot;font-size: 12px&quot;&gt;for (int j = 0; j &amp;lt; EKSTRAUDSTYR_PRISLISTE.length ; j++)&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264.53" y="3740" width="365.94" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-36" target="6qJvrA9MPQ_0sRQlq4yG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-36" target="6qJvrA9MPQ_0sRQlq4yG-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="3990" />
+              <mxPoint x="422" y="3990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-35" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6qJvrA9MPQ_0sRQlq4yG-34">
+          <mxGeometry x="-0.1289" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-36" value="&lt;font style=&quot;font-size: 12px&quot;&gt;EKSTRAUDSTYR_PRISLISTE[j][0] === ekstraudstyr[i]&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264.53" y="4018" width="365.94" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-38" target="6qJvrA9MPQ_0sRQlq4yG-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="3820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-38" value="&lt;font style=&quot;font-size: 12px&quot;&gt;udstyrsudgift &amp;lt;- udstyrsudgift + &lt;font style=&quot;font-size: 12px&quot;&gt;EKSTRAUDSTYR_PRISLISTE[j][1]&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="4057" width="252.5" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6qJvrA9MPQ_0sRQlq4yG-40" target="6qJvrA9MPQ_0sRQlq4yG-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="3300" />
+              <mxPoint x="448" y="3300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qJvrA9MPQ_0sRQlq4yG-40" value="&lt;font style=&quot;font-size: 12px&quot;&gt;totalLejeudgift &amp;lt;- (1 + MOMS) * (GRUNDBELOEB + (dagligLejepris * lejePeriodeIDage) + (DAGLIGT_TILLAEG* lejeperiodeIDage)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="233.36" y="3190" width="428.28" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
